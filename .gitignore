@@ -1,4 +1,6 @@
 .history/
+personal-readme.txt
+.DS_Store
 .dep
 *.o
 *.bin
